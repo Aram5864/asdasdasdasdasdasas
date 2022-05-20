@@ -1,0 +1,4 @@
+class Message extends Database{
+
+}
+
